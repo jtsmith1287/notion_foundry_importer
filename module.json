@@ -1,0 +1,18 @@
+{
+  "id": "notion-to-foundry-importer",
+  "title": "Notion to Foundry Importer",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "An import tool to bring your Notion pages into Foundry as Journal Entries.",
+  "authors": [
+    {
+      "name": "StackOfCups",
+      "discord": "StackOfCups",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/jtsmith1287/notion_foundry_importer"
+}
