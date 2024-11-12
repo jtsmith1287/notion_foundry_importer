@@ -14,5 +14,8 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/jtsmith1287/notion_foundry_importer"
+  "url": "https://github.com/jtsmith1287/notion_foundry_importer",
+  "esmodules": [
+    "scripts/main.js"
+  ]
 }
